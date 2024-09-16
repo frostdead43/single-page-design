@@ -142,8 +142,8 @@ p {
 .introduction a {
   background-color: rgba(235, 117, 101, 1);
   margin-bottom: 100px;
-  margin-left: 200px;
-
+  margin-left: 190px;
+  padding: 14px 45px;
 }
 
 .my-work {
